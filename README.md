@@ -1,1 +1,2 @@
-# Regex Tutorial Starter Code
+# Regex Explanation
+There is a tutorial of  regular expression. I divided the explanation into sections corresponding to your requested elements, such as Anchors, Quantifiers, OR Operator, Character Classes, Flags, Grouping and Capturing, Bracket Expressions, Greedy and Lazy Match, Boundaries, Back-references, and Look-ahead and Look-behind. The content in each section describes how these elements are used within the regex.
